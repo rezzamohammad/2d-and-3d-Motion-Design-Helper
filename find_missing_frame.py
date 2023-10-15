@@ -11,7 +11,7 @@ frame_end = 250
 
 # Define the directory where frame files are located.
 frame_directory = "/mnt/c/Users/Workstation/Desktop/Data/Showreel 2023/Blender/Intro - Send to Render Farm - Style 1/Render/Cycles/Complete Style 1/Image/Part 1"
-prefix_filename = "Intro - Send to Render Farm - Style 1"
+prefix_filename = "Intro - Send to Render Farm - Style 1_"
 
 # Create a set to store the frame numbers of existing frames.
 existing_frames = set()
