@@ -1,6 +1,10 @@
 import os
 
 
+# The Missing Frame Finder is a script to help identify missing frame numbers within a specified frame range in a directory containing image files. 
+# To ensure that all frames are present, especially when rendering many frames using a render farm. Occasionally,
+# render farms may provide incomplete frames due to issues during rendering or downloading.
+
 # Define the frame range.
 frame_start = 1
 frame_end = 250
